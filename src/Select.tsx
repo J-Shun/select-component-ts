@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from "react";
 import { SelectButton } from "./Select.styles";
-import styles from "./select.module.css";
 
 export type SelectOption = {
   label: string;
